@@ -27,7 +27,7 @@ export class PredictedProcess {
    * WRITE UP:
    * (Please provide a detailed explanation of your approach, specifically the reasoning behind your design decisions. This can be done _after_ the 1h30m time limit.)
    *
-   * ...
+   * ....
    *
    */
   public memoize(): PredictedProcess {
